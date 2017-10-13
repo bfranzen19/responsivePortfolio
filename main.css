@@ -1,0 +1,41 @@
+/* general */
+#navButton {
+  padding: 0 2px;
+  margin-right: 15px;
+  position: relative;
+  bottom: 6px;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+* {
+  font-family: 'Manuale', serif;
+}
+
+.dropdown-item {
+  color: #2D7DF7;
+}
+
+
+
+
+
+
+
+
+/* index.html */
+
+
+
+
+
+
+
+
+
+
+
+/* resume.html */
